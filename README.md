@@ -47,7 +47,7 @@ An exciting opportunity as a *Full Stack Developer* to grow, build, and contribu
 
 ## 🙋‍♀ A Little About Me
 
-I started my journey in the world of biology, preparing for NEET — but found my true calling in tech. I’m endlessly curious, love learning, and thrive in creative problem-solving environments.
+I started my journey in the world of biology, previously a biology student preparing for NEET — but found my true calling and passion in tech and made a bold, determined switch into software development and never looked back. I’m endlessly curious, love learning, and thrive in creative problem-solving environments.
 
 ---
 
