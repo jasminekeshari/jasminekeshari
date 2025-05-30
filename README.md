@@ -20,10 +20,22 @@ I enjoy solving problems, learning new things, and turning ideas into functional
 
 ## 🛠 Projects
 
-- *Payout Pilot* – A secure, flexible, and auditable payout platform for edtech mentors.  
-  → Features real-time AI-powered chat using OpenAI for seamless mentor-user communication.
+### 🔹 Payout Pilot  
+A secure, flexible, and auditable payout platform for edtech mentors.  
+→ Features real-time AI-powered chat using OpenAI for seamless mentor-user communication.
 
-- And More projects and some more exciting projects are coming soon! Stay tuned 👀
+### 🔹 MIT TechCart  
+Created to empower students to easily exchange essential items within their community.  
+→ Buy/sell second-hand textbooks, gadgets, and more — simply, securely, and sustainably.
+
+### 🔹 Booking.pro  
+A modern travel booking platform with the following features:  
+✅ Explore top travel destinations  
+✅ Book hotels, flights, car rentals & packages  
+✅ User authentication (Signup/Login) via Firebase Realtime Database  
+✅ Fully responsive & modern UI  
+✅ Smooth navigation & search functionality  
+✅ Social media integration
 
 ---
 
